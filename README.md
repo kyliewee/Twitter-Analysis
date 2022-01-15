@@ -12,6 +12,6 @@ Simple Wordclouds on common words
 
 Vader Sentiment Analysis - Calculate scores and sentiments (with histograms and counterplots)
 
-Hashtags_Wordclouds
+Hashtags_Wordclouds:
 
 Visuals based on the 'Hashtags' Twitter users posted in different region
